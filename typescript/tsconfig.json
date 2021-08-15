@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "module": "commonjs",
+    "target": "ES6",
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "checkJs": true
+  }
+}
