@@ -8,4 +8,3 @@
 ## 目录说明
 
 1. python 目录放置学习中的 python 代码
-2. typescript 目录放置使用 typescript 的实现
